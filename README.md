@@ -17,5 +17,5 @@ Then
 - Register in Quokka App store
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pythonhub/cookiecutter-quokka-module/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pythonhub/cookiecutter-quokka-module/trend.png)](https://bitdeli.com/free "Bitdeli Badge") [![GuardRails badge](https://badges.production.guardrails.io/alexandre/cookiecutter-quokka-module.svg)](https://www.guardrails.io)
 
